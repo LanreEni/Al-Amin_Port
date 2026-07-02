@@ -1,0 +1,71 @@
+Created At: 2026-07-02T13:06:15Z
+Completed At: 2026-07-02T13:06:15Z
+File Path: `file:///c:/Users/alami/Desktop/Al-Amin%20Projects/WebDev/portfolio/user_resume.txt`
+Total Lines: 63
+Total Bytes: 4182
+Showing lines 1 to 63
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: <USER_REQUEST>
+2: https://fatima-portfolio-swart.vercel.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaASluJ1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaexcUtsyKfSrdrqPpNSCB81AgqtjYdurHPSA7RYTU2--yAnTLc-WLZct3DChw_aem_atoRdwoMvGzh_lG0v0UJfw
+3: 
+4: OSENI AL-AMIN OLANREWAJU
+5: Lagos, Nigeria | 0906 140 5246 | alaminoseni22@gmail.com
+6: linkedin.com/in/lanreeni | github.com/LanreEni PROFESSIONAL SUMMARY
+7: Highly accomplished Computer Science undergraduate (CGPA 5.00/5.00) specializing in full-stack backend development, scalable software engineering architecture, and applied machine learning. Proven capability in solo end-to-end production delivery, including a live multi-tenant SaaS application. Seeking an engineering-focused SIWES placement to deliver immediate value to backend workflows, RESTful API design, and production-grade software integration. TECHNICAL EXPERIENCE
+8: Innovation and Advanced Science Research Group (IASRG) Sep 2024 – Present
+9: Academic Researcher & Software Engineer
+10: Research Intern (Nested Focus Period) July 2025 – Sep 2025
+11: • Computer Vision Pipelines: Engineered custom Python-based computer vision inference pipelines utilizing OpenCV and Roboflow to automate agricultural quality control ecosystems.
+12: • Core ML Systems: Architected and optimized an end-to-end Egg Detection & Counting framework alongside a custom feature-extraction Crack Classification model.
+13: • Technical Research Grants: Collaborated directly with senior leadership to draft technical grant applications, project architecture mappings, and system documentation proposals.
+14: • Data Infrastructure: Applied machine learning pipelines to clean, augment, and structure large, unstructured datasets for optimized production model evaluation. SELECTED PROJECTS
+15: LENI SMS – Multi-Tenant School Management Platform
+16: Next.js, PostgreSQL, Supabase, Paystack API
+17: • SaaS Architecture: Architected a full-scale multi-tenant SaaS application allowing seamless independent school onboarding; platform is live with a commercial 
+18: <truncated 5729 bytes>
+19: workflow.
+20: Business Performance Analysis – AdireUniqueHom
+21: Tools: Power BI, Excel
+22: Analyzed sales metrics and social campaign reach
+23: Delivered actionable insights for product promotion strategies
+24: EXPERIENCE_______________________________________________________________
+25: Secretary – MSSN Summit University
+26: Lagos 	Jun 2025– Present
+27: Coordinated official documentation and society-wide correspondence
+28: Supported program logistics, outreach campaigns, and digital designs
+29: Organized Qur’an competitions, debates, and community service
+30: CERTIFICATIONS & TRAINING_________________________________________________
+31: Data Analysis Training – CWW Tech Africa   	June, 2022
+32: Software Development - Power Learn Project Africa 	November, 2025
+33: Digital Marketing & SEO – Various Projects
+34: 
+35: AFFLIATIONS_______________________________________________________________
+36: Member, Journey Down the Streets (JDTS)
+37: Student Member, MSSN Summit University
+38: 
+39: SKILLS & INTERESTS________________________________________________________
+40: 
+41: Programming & Data: Python, C++, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib, OpenCV
+42: Web & Frontend: HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, Responsive Design
+43: AI & Machine Learning: Scikit-learn, ML workflows, Computer Vision (OpenCV)
+44: Software & Creative Tools: Figma, Canva, Photoshop, CorelDRAW, Blender, Qt Designer
+45: Digital Marketing & SEO: Social Media Management, Content Creation, SEO Strategy
+46: 
+47: SOFT SKILLS: Communication, Leadership, Problem-Solving, Teamwork, Analytical Thinking, Creativity
+48: 
+49: LANGUAGES: English (Fluent), Arabic (Fluent), Yoruba (Native)
+50: 
+51: INTERESTS: Machine Learning, Tech Blogging, Volunteering, Traveling, Rubik’s Cube
+52: 
+53: 
+54: these ar eny real and actual projects,not he ones you sued there
+55: 
+56: i loved the weboste style in thet girl's own i shared
+57: so let us implemet that
+58: the one you gaev me seem more like AI websiote
+59: pls work on it to lok super real
+60: </USER_REQUEST>
+61: <ADDITIONAL_METADATA>
+62: The current local time is: 2026-06-28T17:50:54+01:00.
+63: </ADDITIONAL_METADATA>
+The above content shows the entire, complete file contents of the requested file.

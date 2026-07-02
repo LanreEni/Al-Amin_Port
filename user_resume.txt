@@ -1,0 +1,63 @@
+<USER_REQUEST>
+https://fatima-portfolio-swart.vercel.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaASluJ1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaexcUtsyKfSrdrqPpNSCB81AgqtjYdurHPSA7RYTU2--yAnTLc-WLZct3DChw_aem_atoRdwoMvGzh_lG0v0UJfw
+
+OSENI AL-AMIN OLANREWAJU
+Lagos, Nigeria | 0906 140 5246 | alaminoseni22@gmail.com
+linkedin.com/in/lanreeni | github.com/LanreEni PROFESSIONAL SUMMARY
+Highly accomplished Computer Science undergraduate (CGPA 5.00/5.00) specializing in full-stack backend development, scalable software engineering architecture, and applied machine learning. Proven capability in solo end-to-end production delivery, including a live multi-tenant SaaS application. Seeking an engineering-focused SIWES placement to deliver immediate value to backend workflows, RESTful API design, and production-grade software integration. TECHNICAL EXPERIENCE
+Innovation and Advanced Science Research Group (IASRG) Sep 2024 – Present
+Academic Researcher & Software Engineer
+Research Intern (Nested Focus Period) July 2025 – Sep 2025
+• Computer Vision Pipelines: Engineered custom Python-based computer vision inference pipelines utilizing OpenCV and Roboflow to automate agricultural quality control ecosystems.
+• Core ML Systems: Architected and optimized an end-to-end Egg Detection & Counting framework alongside a custom feature-extraction Crack Classification model.
+• Technical Research Grants: Collaborated directly with senior leadership to draft technical grant applications, project architecture mappings, and system documentation proposals.
+• Data Infrastructure: Applied machine learning pipelines to clean, augment, and structure large, unstructured datasets for optimized production model evaluation. SELECTED PROJECTS
+LENI SMS – Multi-Tenant School Management Platform
+Next.js, PostgreSQL, Supabase, Paystack API
+• SaaS Architecture: Architected a full-scale multi-tenant SaaS application allowing seamless independent school onboarding; platform is live with a commercial 
+<truncated 5729 bytes>
+workflow.
+Business Performance Analysis – AdireUniqueHom
+Tools: Power BI, Excel
+Analyzed sales metrics and social campaign reach
+Delivered actionable insights for product promotion strategies
+EXPERIENCE_______________________________________________________________
+Secretary – MSSN Summit University
+Lagos 	Jun 2025– Present
+Coordinated official documentation and society-wide correspondence
+Supported program logistics, outreach campaigns, and digital designs
+Organized Qur’an competitions, debates, and community service
+CERTIFICATIONS & TRAINING_________________________________________________
+Data Analysis Training – CWW Tech Africa   	June, 2022
+Software Development - Power Learn Project Africa 	November, 2025
+Digital Marketing & SEO – Various Projects
+
+AFFLIATIONS_______________________________________________________________
+Member, Journey Down the Streets (JDTS)
+Student Member, MSSN Summit University
+
+SKILLS & INTERESTS________________________________________________________
+
+Programming & Data: Python, C++, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib, OpenCV
+Web & Frontend: HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, Responsive Design
+AI & Machine Learning: Scikit-learn, ML workflows, Computer Vision (OpenCV)
+Software & Creative Tools: Figma, Canva, Photoshop, CorelDRAW, Blender, Qt Designer
+Digital Marketing & SEO: Social Media Management, Content Creation, SEO Strategy
+
+SOFT SKILLS: Communication, Leadership, Problem-Solving, Teamwork, Analytical Thinking, Creativity
+
+LANGUAGES: English (Fluent), Arabic (Fluent), Yoruba (Native)
+
+INTERESTS: Machine Learning, Tech Blogging, Volunteering, Traveling, Rubik’s Cube
+
+
+these ar eny real and actual projects,not he ones you sued there
+
+i loved the weboste style in thet girl's own i shared
+so let us implemet that
+the one you gaev me seem more like AI websiote
+pls work on it to lok super real
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-06-28T17:50:54+01:00.
+</ADDITIONAL_METADATA>

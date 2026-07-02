@@ -1,0 +1,297 @@
+). If you meant to render a collection of children, use an array instead.
++234 901 709 0764
+/FATIMA-MUHAMMAD-BASHIR-FlowCV-Resume-20251120.pdf
+01/2024 – 06/2025
+02/2024 – 01/2025
+03/2023 – 09/2023
+04/2024 – 09/2024
+09/2024 – Present
+0px 0px -100px 0px
+0px 0px -50px 0px
+16 18 22 12 16 6
+18.3.1-next-f1338f8080-20240426
+22 7 13.5 15.5 8.5 10.5 2 17
+<script><\/script>
+AI Product Development
+AI-Powered System for Laboratory Identification of Enteric Bacteria
+ANN Journal of Sciences, Engineering & Technology
+Achievements & Impact
+AnimationIteration
+Assisted in laboratory research, data collection, and quality control
+Automation Systems
+Built a predictive model for early hypertension risk detection using patient health data
+Churn Prediction Model
+Clean and Renewable Energy Training
+Collaborated on interdisciplinary projects combining technology and scientific research
+CompositionEvent
+Conducted advanced research in AI applications and data science
+Conducted research and applied machine learning models for local data innovation projects
+Connect on LinkedIn
+Connect with me on social media
+Continuing to contribute to academic research at the intersection of AI, data science, and biological sciences
+Contributed to the development of IoT-based systems, including an RFID attendance solution
+Country Ambassador
+Currently serving as a Python Mentor at PyLadies Katsina and a Data Scientist & IoT Specialist at KATDICT, I'm deeply committed to mentoring emerging talents and leading projects that integrate AI, IoT, and automation for real-world applications.
+Data Scientist and IoT Specialist
+Data Visualization
+DehydratedFragment
+Designed a predictive model for customer retention analysis using machine learning techniques
+Developed a machine learning model using Python for bacterial classification based on morphological and biochemical features
+Developed an embedded IoT system for attendance and user verification
+Direct Sales Agent
+Drone Building and Piloting (1&2)
+Embedded Systems
+Facilitate workshops on coding fundamentals, ML projects, and problem-solving with Python
+Fatima Muhammad Bashir
+Follow on Instagram
+Google I/O Hackathon, ML Track - 2nd Place
+Google Research XploreCSR (AI & ML Track)
+Gupta A., Olawuyi B. A., Olatunde Y. O., Afolabi-Yusuf G. K.,
+Helix Biogen Institute
+Helix Biogen Institute Campus Ambassador
+Hypertension Prediction App
+I am an innovative Machine Learning and Data Science Engineer with a strong background in AI-driven analytics, predictive modeling, and research leadership.
+I'm always interested in discussing new opportunities, collaborations, or innovative projects
+Innovation and Advanced Science Research Group (IASRG), Summit University
+Integrated soil moisture and raindrop sensors to automate water usage using AI logic
+IoT & Automation
+Jobberman Soft Skills & Employability
+Katsina Directorate of Information and Communication Technology (KATDICT)
+Katsina, Nigeria
+Laboratory Systems
+Leadership & Communication
+M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z
+M12 5a3 3 0 1 1 5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12 18Z
+M15 13a4.5 4.5 0 0 1-3-4 4.5 4.5 0 0 1-3 4
+M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4
+M15.477 12.89 17 22l-5-3-5 3 1.523-9.11
+M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z
+M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2
+M16 3.13a4 4 0 0 1 0 7.75
+M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z
+M17.599 6.5a3 3 0 0 0 .399-1.375
+M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6
+M19.938 10.5a4 4 0 0 1 .585.396
+M19.967 17.484A4 4 0 0 1 18 18
+M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z
+M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z
+M22 21v-2a4 4 0 0 0-3-3.87
+M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z
+M3 12A9 3 0 0 0 21 12
+M3 5V19A9 3 0 0 0 21 19V5
+M3.477 10.896a4 4 0 0 1 .585-.396
+M6 18a4 4 0 0 1-1.967-.516
+M6.003 5.125A3 3 0 0 0 6.401 6.5
+M9 18c-4.51 2-5-2-7-2
+Machine Learning & AI
+Machine Learning & Data Science Engineer
+Managed data-driven customer engagement strategies and built digital adoption pipelines
+Minified React error #
+Model Deployment
+My passion lies in transforming complex data into actionable insights and developing intelligent systems that create measurable impact across both public and private sectors.
+My work has been recognized through achievements such as securing 2nd place at the Google I/O Hackathon ML Track, and I've contributed to academic publications exploring the frontiers of science and technology. I'm passionate about building data solutions that combine technical excellence, strategic vision, and social value.
+National Agency for Food and Drug Administration and Control
+Objects are not valid as a React child (found:
+Off Ring Road, by Mani Road, Kwado Sabontiti, Katsina, Katsina State, Nigeria
+Optiedge Nigeria Limited
+Policy Analytics
+Predictive Analytics
+Project Management
+Promoted AI applications in bioinformatics and biotechnology research
+Publications & Research
+PyLadies Katsina
+Python Programming
+RFID-Based Identification Platform
+React.Children.only expected to receive a single React element child.
+React.cloneElement(...): The argument must be a React element, but you passed
+Represented the institute across Nigeria, coordinating educational outreach and research advocacy
+Research Analytics
+Selected Projects
+Skills & Expertise
+Smart Irrigation Controller
+Stakeholder Management
+Statistical Modeling
+Strategic Planning
+Supported data strategy, management, and system automation under the Technical Assistant (Engineering & Automation)
+Systems Thinking
+Technical Communication
+Technical Skills
+Train and mentor women in Python programming, data analytics, and AI applications
+Transforming data into actionable insights and developing intelligent systems that drive measurable impact across sectors
+View GitHub Profile
+Volume 1, Issue 1, pp. 59-78
+With a Bachelor's degree in Microbiology from Summit University, I've uniquely positioned myself at the intersection of biological sciences and artificial intelligence. This interdisciplinary approach allows me to tackle challenges from multiple perspectives, particularly in bioinformatics and data analytics.
+__reactContainer$
+__reactListeners$
+abort auxClick cancel canPlay canPlayThrough click close contextMenu copy cut drag dragEnd dragEnter dragExit dragLeave dragOver dragStart drop durationChange emptied encrypted ended error gotPointerCapture input invalid keyDown keyPress keyUp load loadedData loadedMetadata loadStart lostPointerCapture mouseDown mouseMove mouseOut mouseOver mouseUp paste pause play playing pointerCancel pointerDown pointerMove pointerOut pointerOver pointerUp progress rateChange reset resize seeked seeking stalled submit suspend timeUpdate touchCancel touchEnd touchStart volumeChange scroll toggle touchMove waiting wheel
+abort canplay canplaythrough durationchange emptied encrypted ended error loadeddata loadedmetadata loadstart pause play playing progress ratechange resize seeked seeking stalled suspend timeupdate volumechange waiting
+absolute -bottom-40 -left-40 w-80 h-80 bg-cyan-500/20 rounded-full blur-3xl animate-pulse
+absolute -top-40 -right-40 w-80 h-80 bg-teal-500/20 rounded-full blur-3xl animate-pulse
+absolute bottom-0 left-0 w-96 h-96 bg-cyan-500/10 rounded-full blur-3xl
+absolute bottom-12 left-1/2 transform -translate-x-1/2 text-white/80 hover:text-white transition-colors group
+absolute inset-0
+absolute inset-0 bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]
+absolute inset-0 bg-[linear-gradient(to_right,#ffffff08_1px,transparent_1px),linear-gradient(to_bottom,#ffffff08_1px,transparent_1px)] bg-[size:24px_24px]
+absolute inset-0 bg-gradient-to-t from-slate-900/50 via-transparent to-transparent
+absolute inset-0 overflow-hidden
+absolute left-0 md:left-1/2 transform md:-translate-x-1/2 h-full w-1 bg-gradient-to-b from-teal-200 via-teal-300 to-teal-200 rounded-full
+absolute left-0 md:left-1/2 transform md:-translate-x-1/2 w-5 h-5 bg-gradient-to-br from-teal-500 to-cyan-600 rounded-full border-4 border-white shadow-lg shadow-teal-500/30 z-10
+absolute top-0 right-0 w-96 h-96 bg-teal-500/10 rounded-full blur-3xl
+accent-height alignment-baseline arabic-form baseline-shift cap-height clip-path clip-rule color-interpolation color-interpolation-filters color-profile color-rendering dominant-baseline enable-background fill-opacity fill-rule flood-color flood-opacity font-family font-size font-size-adjust font-stretch font-style font-variant font-weight glyph-name glyph-orientation-horizontal glyph-orientation-vertical horiz-adv-x horiz-origin-x image-rendering letter-spacing lighting-color marker-end marker-mid marker-start overline-position overline-thickness paint-order panose-1 pointer-events rendering-intent shape-rendering stop-color stop-opacity strikethrough-position strikethrough-thickness stroke-dasharray stroke-dashoffset stroke-linecap stroke-linejoin stroke-miterlimit stroke-opacity stroke-width text-anchor text-decoration text-rendering underline-position underline-thickness unicode-bidi unicode-range units-per-em v-alphabetic v-hanging v-ideographic v-mathematical vector-effect vert-adv-y vert-origin-x vert-origin-y word-spacing writing-mode xmlns:xlink x-height
+act(...) is not supported in production builds of React.
+allowFullScreen async autoFocus autoPlay controls default defer disabled disablePictureInPicture disableRemotePlayback formNoValidate hidden loop noModule noValidate open playsInline readOnly required reversed scoped seamless itemScope
+animationiteration
+bashirfatima957@gmail.com
+bg-gradient-to-r mt-32 from-white via-teal-100 to-cyan-100 bg-clip-text text-transparent
+bg-white/95 backdrop-blur-md shadow-lg shadow-black/5
+block px-4 py-3 text-slate-700 hover:text-teal-600 hover:bg-teal-50/50 font-medium transition-all duration-200 rounded-lg
+cancel close invalid load scroll toggle
+change click focusin focusout input keydown keyup selectionchange
+children dangerouslySetInnerHTML defaultValue defaultChecked innerHTML suppressContentEditableWarning suppressHydrationWarning style
+compositionend focusout keydown keypress keyup mousedown
+compositionstart
+compositionstart focusout keydown keypress keyup mousedown
+compositionupdate
+compositionupdate focusout keydown keypress keyup mousedown
+dangerouslySetInnerHTML
+externalResourcesRequired
+flex flex-col sm:flex-row items-center justify-center gap-8 text-sm sm:text-base
+flex flex-wrap justify-center gap-3 mt-10
+flex flex-wrap justify-center gap-4 mb-16 px-4
+flex items-center gap-2 text-sm text-slate-600 mb-6
+flex items-center gap-2.5 mb-5 px-3 py-2 bg-gradient-to-r from-amber-50 to-yellow-50 border border-amber-200/50 rounded-lg
+flex items-center gap-3 px-6 mb-8 py-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg
+flex items-center gap-4
+flex items-center gap-4 mb-6
+flex items-center justify-between h-20
+flex items-start
+flex items-start gap-5 p-6 bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl md:col-span-2
+flex items-start justify-between mb-4
+flex items-start justify-between mb-6
+flex justify-center gap-4 flex-wrap
+flex-shrink-0  p-4 bg-gradient-to-br from-teal-500/20 to-cyan-500/20 rounded-xl border border-teal-400/20
+flex-shrink-0 p-4 bg-gradient-to-br from-teal-500/20 to-cyan-500/20 rounded-xl border border-teal-400/20
+focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
+font-face-format
+font-semibold text-slate-900
+font-semibold text-white
+font-semibold text-white group-hover:text-teal-100 transition-colors
+font-semibold text-white group-hover:text-teal-100 transition-colors break-all sm:break-words
+for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+fullscreenchange
+gotpointercapture
+grid grid-cols-1 md:grid-cols-2 gap-6 mb-12
+grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8
+grid md:grid-cols-2 gap-8
+group flex items-center gap-3 px-6 py-3 bg-white/5 backdrop-blur-sm border border-white/10 rounded-lg hover:bg-white/10 hover:border-white/20 transition-all duration-300
+group flex items-center gap-5 p-6 bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl hover:bg-white/10 hover:border-white/20 transition-all duration-300 transform hover:scale-[1.02]
+group p-4 bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl hover:bg-white/10 hover:border-white/20 transition-all duration-300 transform hover:scale-110
+group px-10 py-4 bg-transparent border-2 border-white/30 backdrop-blur-sm text-white rounded-xl font-semibold hover:bg-white/10 hover:border-white/50 transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-[1.02] active:scale-[0.98]
+group px-10 py-4 bg-white text-slate-900 rounded-xl font-semibold hover:bg-teal-50 transition-all duration-300 shadow-xl hover:shadow-2xl hover:scale-[1.02] active:scale-[0.98]
+h-1.5 bg-gradient-to-r from-teal-500 via-teal-400 to-cyan-500 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left
+hidden md:flex items-center space-x-1
+http://www.w3.org/1998/Math/MathML
+http://www.w3.org/1999/xhtml
+http://www.w3.org/1999/xlink
+http://www.w3.org/2000/svg
+http://www.w3.org/XML/1998/namespace
+https://github.com/Fatima-MLX
+https://reactjs.org/docs/error-decoder.html?invariant=
+https://www.instagram.com/miss_fatyyy_/
+https://www.linkedin.com/in/fatima-muhammad-bashir-708497245/
+https://x.com/Miss_fatyyy
+inline-block px-4 py-2 bg-gradient-to-r from-teal-100 to-cyan-100 border border-teal-200/50 text-teal-700 rounded-xl text-sm font-semibold
+link[rel="modulepreload"]
+lostpointercapture
+m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7
+mailto:bashirfatima957@gmail.com
+max-w-4xl mx-auto
+max-w-5xl mx-auto
+max-w-5xl mx-auto space-y-8
+max-w-7xl mx-auto px-4 sm:px-6 lg:px-8
+max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10
+mb-8 first-line mt-32 inline-block
+md:hidden bg-white/98 backdrop-blur-md border-t border-slate-200/50 shadow-xl animate-slide-up
+min-h-screen bg-white antialiased
+ml-6 p-3 bg-teal-50 rounded-xl border border-teal-100
+mousedown mouseup touchcancel touchend touchstart auxclick dblclick pointercancel pointerdown pointerup dragend dragstart drop compositionend compositionstart keydown keypress keyup input textInput copy cut paste click change contextmenu reset submit
+mt-8 pt-8 border-t border-slate-200
+noopener noreferrer
+object with keys {
+onAnimationIteration
+onAnimationStart
+onCompositionEnd
+onCompositionStart
+onCompositionUpdate
+onDoubleClickCapture
+onMouseDownCapture
+onMouseMoveCapture
+onMouseUpCapture
+onpropertychange
+opacity-0 -translate-x-8
+opacity-0 translate-x-8
+opacity-0 translate-y-12
+opacity-0 translate-y-8
+opacity-100 translate-x-0
+opacity-100 translate-y-0
+p-3 bg-gradient-to-br from-teal-500/10 to-cyan-500/10 rounded-xl text-teal-600 group-hover:from-teal-500/20 group-hover:to-cyan-500/20 transition-all
+px-3 py-1.5 text-xs font-semibold text-teal-700 bg-gradient-to-r from-teal-100 to-cyan-100 rounded-full border border-teal-200/50 whitespace-nowrap ml-3
+px-4 py-6 space-y-2
+px-5 py-2.5 bg-white/10 backdrop-blur-sm border border-white/20 rounded-xl text-sm font-medium hover:bg-white/15 transition-all duration-300
+py-24 sm:py-32 bg-gradient-to-b from-slate-50/50 to-white
+py-24 sm:py-32 bg-gradient-to-b from-white to-slate-50/50
+py-24 sm:py-32 bg-gradient-to-br from-slate-900 via-teal-900 to-cyan-900 text-white relative overflow-hidden
+py-24 sm:py-32 bg-white
+react-mount-point-unstable
+react.forward_ref
+react.strict_mode
+react.suspense_list
+relative mb-16 md:mb-20
+relative min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-900 via-teal-900 to-cyan-900 text-white overflow-hidden
+relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center
+setState(...): takes an object of state variables to update or a function which returns an object of state variables.
+suppressContentEditableWarning
+suppressHydrationWarning
+tel:+2349017090764
+text-2xl font-bold text-slate-900 mb-3 leading-tight
+text-2xl font-bold text-slate-900 mb-6
+text-2xl font-bold text-slate-900 mb-8
+text-3xl sm:text-4xl font-bold mb-6 tracking-tight
+text-4xl sm:text-5xl font-bold mb-6 tracking-tight
+text-4xl sm:text-5xl font-bold text-slate-900 tracking-tight
+text-5xl sm:text-6xl lg:text-7xl xl:text-8xl font-bold mb-8  leading-[1.1] tracking-tight text-balance
+text-amber-600 flex-shrink-0
+text-base sm:text-lg lg:text-xl max-w-3xl mx-auto mb-16 text-teal-50/80 leading-relaxed text-balance px-4
+text-base sm:text-lg text-slate-600 leading-relaxed text-balance
+text-base sm:text-lg text-slate-700 leading-relaxed
+text-center mt-20 text-teal-100/70 text-sm
+text-center pt-10 border-t border-white/10
+text-slate-600 italic text-base sm:text-lg max-w-2xl mx-auto
+text-slate-600 leading-relaxed text-sm sm:text-base
+text-slate-600 mb-4 text-base font-medium
+text-slate-700 hover:text-teal-600 hover:bg-teal-50/50
+text-slate-700 text-sm sm:text-base
+text-slate-700 text-sm sm:text-base leading-relaxed
+text-slate-700 text-sm sm:text-base leading-relaxed flex items-start
+text-slate-900 hover:bg-slate-100
+text-slate-900 hover:text-teal-600
+text-sm text-teal-100/80 mb-1.5 font-medium
+text-teal-100/90 mb-8 text-lg font-medium
+text-teal-50 group-hover:text-white transition-colors
+text-teal-500 mr-3 mt-1.5 flex-shrink-0
+text-teal-500 mr-3 mt-2 flex-shrink-0
+text-teal-600 font-semibold mb-3 text-base
+text-white group-hover:text-teal-300 transition-colors
+text-white hover:bg-white/10
+text-white hover:text-teal-200
+text-white/90 hover:text-white hover:bg-white/10
+text-xl font-bold text-slate-900
+text-xl font-bold text-slate-900 mb-4 leading-tight group-hover:text-teal-600 transition-colors
+text-xl sm:text-2xl font-bold text-slate-900 leading-tight
+text-xl sm:text-2xl lg:text-3xl font-light mb-6 text-teal-100/90 max-w-4xl mx-auto text-balance
+text-xl sm:text-2xl text-slate-900 leading-relaxed font-medium text-balance mb-6
+text-xl text-teal-50/90 max-w-2xl mx-auto
+text-xs font-semibold text-amber-700
+xlink:actuate xlink:arcrole xlink:role xlink:show xlink:title xlink:type
+© 2025 Fatima Muhammad Bashir. All rights reserved.

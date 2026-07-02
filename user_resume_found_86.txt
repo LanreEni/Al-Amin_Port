@@ -1,0 +1,133 @@
+<USER_REQUEST>
+https://fatima-portfolio-swart.vercel.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZnRzaASluJ1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAaexcUtsyKfSrdrqPpNSCB81AgqtjYdurHPSA7RYTU2--yAnTLc-WLZct3DChw_aem_atoRdwoMvGzh_lG0v0UJfw
+
+OSENI AL-AMIN OLANREWAJU
+Lagos, Nigeria | 0906 140 5246 | alaminoseni22@gmail.com
+linkedin.com/in/lanreeni | github.com/LanreEni PROFESSIONAL SUMMARY
+Highly accomplished Computer Science undergraduate (CGPA 5.00/5.00) specializing in full-stack backend development, scalable software engineering architecture, and applied machine learning. Proven capability in solo end-to-end production delivery, including a live multi-tenant SaaS application. Seeking an engineering-focused SIWES placement to deliver immediate value to backend workflows, RESTful API design, and production-grade software integration. TECHNICAL EXPERIENCE
+Innovation and Advanced Science Research Group (IASRG) Sep 2024 – Present
+Academic Researcher & Software Engineer
+Research Intern (Nested Focus Period) July 2025 – Sep 2025
+• Computer Vision Pipelines: Engineered custom Python-based computer vision inference pipelines utilizing OpenCV and Roboflow to automate agricultural quality control ecosystems.
+• Core ML Systems: Architected and optimized an end-to-end Egg Detection & Counting framework alongside a custom feature-extraction Crack Classification model.
+• Technical Research Grants: Collaborated directly with senior leadership to draft technical grant applications, project architecture mappings, and system documentation proposals.
+• Data Infrastructure: Applied machine learning pipelines to clean, augment, and structure large, unstructured datasets for optimized production model evaluation. SELECTED PROJECTS
+LENI SMS – Multi-Tenant School Management Platform
+Next.js, PostgreSQL, Supabase, Paystack API
+• SaaS Architecture: Architected a full-scale multi-tenant SaaS application allowing seamless independent school onboarding; platform is live with a commercial paying client.
+• Full-Stack Engineering: Designed complete relational database schemas, role-based row-level security (RLS), and complex state management workflows autonomously.
+• Feature Implementation: Integrated interactive Computer-Based Testing (CBT), automated grading engines, robust reporting modules, and secure payment processing gateways.
+Hayya – Logistics & Multi-Role Delivery Service Platform
+Next.js, PostgreSQL, Supabase Realtime, Tailwind CSS
+• Real-Time Systems: Developed real-time status networks and persistent web dashboards supporting individual Customer, Rider, and Vendor authentication loops.
+• State Syncing: Built low-latency background notifications and order-dispatch management structures to maintain consistent platform updates.
+AFCON 2025 Analytics Dashboard
+Python, Pandas, Plotly, Dash
+• Data Optimization: Built a standalone interactive sports intelligence dashboard parsing raw competition datasets to deliver performance metrics and standing trend charts.
+Meyiwavera Foundation Site
+Next.js, Tailwind CSS, API Integration
+• Web Engineering: Served as the sole developer to map out, construct, and release a live public web system featuring structured donation mechanisms and content blogs. LEADERSHIP & TRANSFERABLE EXPERIENCE
+MSSN Summit University Jun 2025 – Present
+General Secretary & Systems Administrator
+• Information Logistics: Managed official operational documentation, data logging, and society-wide communication flows for over 500 active members.
+• Systems Development: Developed a member management tracking database using Excel, Pandas, and Power BI; streamlined registration and ID tracking workflows by 30%. EDUCATION
+B.Sc. Computer Science (Honours) – 3rd Year Sep 2024 – Jun 2027 (Expected)
+Summit University, Offa, Kwara State, Nigeria
+• Current Cumulative GPA: 5.00 / 5.00 (First Class Standing) TECHNICAL SKILLS MATRIX
+• Languages & Backend: Python (Advanced), JavaScript, C++, SQL (PostgreSQL), RESTful Web APIs, Next.js, Node.js
+• Infrastructure & Cloud: Supabase Backend-as-a-Service, Relational Database Design, Git Version Control, Row-Level Security (RLS)
+• AI & Intelligence Architecture: OpenCV, Roboflow, Computer Vision Model Pipeline Training, Pandas, NumPy, Plotly Analytics
+• Professional Frameworks: Figma UI/UX Mapping, Systems Lifecycle Architecture, Core Agile Workflows, Technical Documentation CERTIFICATIONS & AFFILIATIONS
+• Software Development Certification – Power Learn Project Africa (2025)
+• Advanced Data Analysis Training – CWW Tech Africa (2022)
+• Active Associations: Member, Journey Down the Streets (JDTS) | Student Member, Nigeria Computer Society (NCS)
+
+OSENI AL-AMIN OLANREWAJU
+Lagos, Nigeria
+0906 140 5246 | alaminoseni22@gmail.com 
+linkedin.com/in/lanreeni | github.com/LanreEni
+
+PROFESSIONAL SUMMARY_______________________________________________
+Computer Science undergraduate at Summit University with First-Class academic standing (CGPA 5.00/5.00) and hands-on experience in data analysis, web development and machine-learning projects. Demonstrated ability to use data and technology to support operational decision-making, improve processes and deliver practical digital solutions. 
+EDUCATION______________________________________________________________
+Summit University								September 2024 - June 2027 (Expected)
+B.Sc. Computer Science
+Year of Study: 3rd Year (Penultimate year)
+CGPA: 5.0/5.0 (First Class)
+Relevant Coursework: Frontend Development, Python Programming, C++ Programming, Backend Development, Acadopreneurship.
+PROJECTS & INITIATIVES___________________________________________________
+AFCON 2025 Analytics Dashboard
+Tools: Python, Pandas, Plotly, Dash
+Transformed AFCON 2025 group stage data into an interactive analytics dashboard.
+Engineered data workflows including cleaning, transformation, and multi‑metric aggregation
+Built visualizations comparing team performance, standings and consistency metrics.
+Designed the dashboard as a live product for exploration, not just a static report.
+Membership Data Management Dashboard – MSSN UNILAG
+Tools: Excel, Python (Pandas), Power BI
+Managed and cleaned data for 500+ society members.
+Developed dashboards to visualize registration, attendance, and ID issuance.
+Helped increase operational efficiency and engagement by 30%.
+Egg Detection & Counting Model – Computer Vision & Machine Learning
+Tools: Python, Roboflow, Supervised Learning, Model Training, Inference Pipeline
+Trained an object-detection model on a large, annotated dataset prepared with Roboflow
+Implemented data augmentation, preprocessing, and evaluation using precision/recall metrics
+Integrated the model into a Python-based inference pipeline for practical testing
+Currently extending the system toward real-time detection with improved robustness
+C++ Examination Scheduling & Allocation System
+Tools: C++, WASM
+Developed a desktop-based system to schedule exams for courses across rooms and time slots
+Included features to assign invigilators, manage room capacities, and avoid clashes
+Designed UI with Qt and integrated logic using C++ backend
+Planning deployment as a web-based system using WebAssembly (WASM)
+
+Hayya – Multi-User Delivery Web Platform - In Development
+Tools: Next.js,  PostgreSQL, Supabase.
+Developed a full-stack delivery platform supporting Customers, Riders, and Vendors.
+Built role-based authentication and dashboards for each user type.
+Implemented real-time order tracking, notifications, and vendor management features.
+Designed a responsive UI for seamless mobile and desktop use.
+Applied database design and backend logic to ensure efficient order allocation and workflow.
+Business Performance Analysis – AdireUniqueHom
+Tools: Power BI, Excel
+Analyzed sales metrics and social campaign reach
+Delivered actionable insights for product promotion strategies
+EXPERIENCE_______________________________________________________________
+Secretary – MSSN Summit University
+Lagos 	Jun 2025– Present
+Coordinated official documentation and society-wide correspondence
+Supported program logistics, outreach campaigns, and digital designs
+Organized Qur’an competitions, debates, and community service
+CERTIFICATIONS & TRAINING_________________________________________________
+Data Analysis Training – CWW Tech Africa   	June, 2022
+Software Development - Power Learn Project Africa 	November, 2025
+Digital Marketing & SEO – Various Projects
+
+AFFLIATIONS_______________________________________________________________
+Member, Journey Down the Streets (JDTS)
+Student Member, MSSN Summit University
+
+SKILLS & INTERESTS________________________________________________________
+
+Programming & Data: Python, C++, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib, OpenCV
+Web & Frontend: HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, Responsive Design
+AI & Machine Learning: Scikit-learn, ML workflows, Computer Vision (OpenCV)
+Software & Creative Tools: Figma, Canva, Photoshop, CorelDRAW, Blender, Qt Designer
+Digital Marketing & SEO: Social Media Management, Content Creation, SEO Strategy
+
+SOFT SKILLS: Communication, Leadership, Problem-Solving, Teamwork, Analytical Thinking, Creativity
+
+LANGUAGES: English (Fluent), Arabic (Fluent), Yoruba (Native)
+
+INTERESTS: Machine Learning, Tech Blogging, Volunteering, Traveling, Rubik’s Cube
+
+
+these ar eny real and actual projects,not he ones you sued there
+
+i loved the weboste style in thet girl's own i shared
+so let us implemet that
+the one you gaev me seem more like AI websiote
+pls work on it to lok super real
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-06-28T17:50:54+01:00.
+</ADDITIONAL_METADATA>

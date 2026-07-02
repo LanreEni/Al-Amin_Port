@@ -1,0 +1,21 @@
+
+[
+  {
+    "title": "AI Image Classifier",
+    "description": "A convolutional neural network that classifies images into 10 categories.",
+    "technologies": ["Python", "TensorFlow", "Next.js"],
+    "link": "https://github.com/LanreEni/ai-image-classifier"
+  },
+  {
+    "title": "Full‑Stack Portfolio",
+    "description": "Personal portfolio website built with Next.js, Tailwind CSS, and Framer Motion.",
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "link": "https://github.com/LanreEni/portfolio"
+  },
+  {
+    "title": "Data Visualization Dashboard",
+    "description": "Interactive dashboard for visualizing large datasets using D3.js and React.",
+    "technologies": ["React", "D3.js", "Node.js"],
+    "link": "https://github.com/LanreEni/data-dashboard"
+  }
+]
