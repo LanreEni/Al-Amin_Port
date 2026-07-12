@@ -99,47 +99,35 @@ const projects = [
       "Integrated the model into a Python-based inference pipeline for practical testing."
     ],
     link: "https://github.com/LanreEni"
-  },
-  {
-    title: "C++ Exam Scheduling System",
-    subtitle: "Examination Allocation Tool",
-    technologies: ["C++", "Qt", "WebAssembly (WASM)"],
-    category: "Systems",
-    description: "Desktop-based system to schedule exams for courses across rooms and time slots, avoiding invigilator and capacity clashes.",
-    points: [
-      "Designed UI with Qt and integrated logic using C++ backend; planning deployment via WebAssembly."
-    ],
-    link: "https://github.com/LanreEni"
   }
 ];
 
 const skillsMatrix = {
   "Languages & Backend": [
-    { name: "Python", level: 95 },
-    { name: "JavaScript", level: 90 },
-    { name: "C++", level: 85 },
-    { name: "SQL (PostgreSQL)", level: 90 },
-    { name: "RESTful Web APIs", level: 90 },
-    { name: "Next.js / Node.js", level: 92 }
+    { name: "Python (ML)", level: 80 },
+    { name: "JavaScript", level: 80 },
+    { name: "C++", level: 80 },
+    { name: "SQL (PostgreSQL)", level: 80 },
+    { name: "RESTful Web APIs", level: 80 },
+    { name: "Next.js / Node.js", level: 80 }
   ],
   "Infrastructure & Cloud": [
-    { name: "Supabase BaaS", level: 90 },
-    { name: "Relational DB Design", level: 92 },
-    { name: "Row-Level Security (RLS)", level: 88 },
-    { name: "Git Version Control", level: 90 }
+    { name: "Supabase BaaS", level: 80 },
+    { name: "Relational DB Design", level: 80 },
+    { name: "Row-Level Security (RLS)", level: 80 },
+    { name: "Git Version Control", level: 80 }
   ],
   "AI & Data Science": [
-    { name: "OpenCV", level: 85 },
-    { name: "Roboflow / CV Pipelines", level: 88 },
-    { name: "Pandas & NumPy", level: 90 },
-    { name: "Plotly Analytics", level: 85 }
+    { name: "OpenCV", level: 80 },
+    { name: "Roboflow / CV Pipelines", level: 80 },
+    { name: "Pandas & NumPy", level: 80 },
+    { name: "Plotly Analytics", level: 80 }
   ],
   "Creative & Soft Skills": [
-    { name: "Figma UI/UX Mapping", level: 85 },
-    { name: "Systems Architecture", level: 88 },
-    { name: "Technical Documentation", level: 90 },
-    { name: "Agile Workflows", level: 85 },
-    { name: "Languages (English/Arabic)", level: 95 }
+    { name: "Systems Architecture", level: 80 },
+    { name: "Technical Documentation", level: 80 },
+    { name: "Agile Workflows", level: 80 },
+    { name: "Languages (English/Arabic)", level: 80 }
   ]
 };
 
