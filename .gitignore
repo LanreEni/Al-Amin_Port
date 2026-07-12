@@ -39,3 +39,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Portfolio-specific ignored directories
+Python/
+"Python/Year 3/"
+Python/Year3Class/
+Python/__pycache__/
+C++/
+ML/
+PLP/
+Adireuniquehom/
+Begin/
+Robotics/
+SQL/
+WebDev/
+Year\ 3/
+.vscode/
